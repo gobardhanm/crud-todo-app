@@ -1,4 +1,4 @@
-let form = document.getElementById("form");
+cllet form = document.getElementById("form");
 let textInput = document.getElementById("textInput");
 let dateInput = document.getElementById("dateInput");
 let textarea = document.getElementById("textarea");
